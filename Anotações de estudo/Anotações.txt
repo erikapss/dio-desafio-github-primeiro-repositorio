@@ -1,0 +1,12 @@
+# Título dos e-mails com as observações das aulas
+
+Conteúdo 1 - Introdução ao Desenvolvimento Moderno de Software - Concluído
+
+Conteúdo 2 - Princípios de desenvolvimento de software
+
+Conteúdo 3 - Introdução à cultura ágil
+
+Conteúdo 4 - Introdução ao Git e ao GitHub
+
+Conteúdo 5 - Como entregar seu desafio de projeto
+
